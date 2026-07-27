@@ -6,20 +6,8 @@ I'm currently learning Python from scratch and uploading the projects I build wh
 
 ## Projects
 
-### Calculator
-A basic calculator that can:
-- Add
-- Subtract
-- Multiply
-- Divide
-
+### Basic Calculator (now found on iPads too :) )
 ### BMI Calculator
-A BMI calculator that:
-- Calculates Body Mass Index
-- Categorizes users as:
-  - Underweight
-  - Normal Weight
-  - Overweight
-  - Obese
+### Compound Interest Calculator 
 
 More projects coming soon 🚀
