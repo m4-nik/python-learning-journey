@@ -8,5 +8,6 @@ I'm currently learning Python from scratch and uploading the projects I build wh
  ### 1) Basic Calculator (now found on iPads too :) )
  ### 2) BMI Calculator
  ### 3) Compound Interest Calculator 
+ ### 4) Countdown Timer 
 
  More projects coming soon 🚀
