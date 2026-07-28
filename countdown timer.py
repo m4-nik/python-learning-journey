@@ -13,7 +13,7 @@ for x in range (ask1,0,-1):
 print ("TIME'S UP!!!!!!")
 
 # for explanation
-# FOR SECONDS:we know that normal division or "/" is used when we want to convert seconds -> minutes or minutes -> hours
+# FOR SECONDS: we know that normal division or "/" is used when we want to convert seconds -> minutes or minutes -> hours
 # but here the mechanisms are different
 # while converting seconds to minutes we have always seen the quotient and quotient always gives us minutes
 # but it's reminder gives us seconds!
