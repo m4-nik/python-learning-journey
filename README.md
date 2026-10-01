@@ -10,5 +10,6 @@ I'm currently learning Python from scratch and uploading the projects I build wh
  ### 3) Compound Interest Calculator 
  ### 4) Countdown Timer 
  ### 5) Shopping Cart
+ ### 6) Stone, Paper & Scissors
 
  More projects coming soon 🚀
