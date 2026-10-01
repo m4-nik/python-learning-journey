@@ -1,4 +1,4 @@
-# Python Learning Journey
+<img width="1127" height="679" alt="image" src="https://github.com/user-attachments/assets/9bc4b666-db5f-45d4-921e-8b11e948561a" /># Python Learning Journey
 
 Hi! I'm Manik.
 I'm currently learning Python from scratch and uploading the projects I build while learning.
@@ -9,5 +9,6 @@ I'm currently learning Python from scratch and uploading the projects I build wh
  ### 2) BMI Calculator
  ### 3) Compound Interest Calculator 
  ### 4) Countdown Timer 
+ ### 5) Shopping Cart
 
  More projects coming soon 🚀
